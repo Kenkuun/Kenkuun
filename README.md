@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kenji !
+## 👋 ## Hi, I’m Kenji !
 - 👀 I’m interested in Data science projects using :
 		machine learning models,
       data programming (Python, Pandas, NumPy, Sickit Learn, Tensor Flow, SQL),
@@ -7,11 +7,13 @@
       Big Data (Hadoop, Spark).
 - 🌱 Due to my solid experience as a financial analyst, I have developed strong analytical and communcation skills. I use to create reports, dashboard and present them to the management.
 - 💞️ Feel free to look over my profile and discover the differents projects I worked on.
-- 📫 How to reach me
-  
-   kenji.lamy@gmail.com
+- 📫 How to reach me kenji.lamy@gmail.com
 
-
+### Tech
+- Python, SQL
+- Sickit Learn, Tensor Flow, Anaconda
+- Power BI, Dash
+- Hadoop, Spark, AWS
 
 <!---
 Kenkuun/Kenkuun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
