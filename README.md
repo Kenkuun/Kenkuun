@@ -5,7 +5,7 @@
       data visualization (Power BI),
       application deployment (Dash, APIs),
       Big Data (Hadoop, Spark).
-- 📒 Due to my solid experience as a financial analyst, I have developed strong analytical and communcation skills. I use to create reports, dashboard and present them to the management.
+- 📒 Due to my solid experience as a financial analyst, I have developed strong analytical and communcation skills. I use them to create reports, dashboard and present them to the management.
 - 🔍 Feel free to look over my profile and discover the differents projects I worked on.
 - 📫 How to reach me
   
