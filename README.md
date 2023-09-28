@@ -5,9 +5,9 @@
       data visualization (Power BI),
       application deployment (Dash, APIs),
       Big Data (Hadoop, Spark).
-- 📒 Due to my solid experience as a financial analyst, I have developed strong analytical and communcation skills. I use them to create reports, dashboard and present them to the management.
+- 📒 Due to my solid experience as a financial analyst, I have developed strong analytical and communcation skills. I use them to create reports, dashboard and present them to the top management.
 - 🔍 Feel free to look over my profile and discover the differents projects I worked on.
-- 📫 How to reach me
+- 📫 How to reach me :
   
  ![Gmail](https://img.shields.io/badge/kenji.lamy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
  [![LinkedIn](https://img.shields.io/badge/Kenji_Lamy-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenji-lamy-36765832/)
